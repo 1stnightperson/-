@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+<title>Задание Герыча №1</title>
+
+</head>
+<body>
+<H1>Все лучшее у нас</H1>
+<p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkrasivosti.pro%2Fkoshki%2F9023-tolstyj-chernyj-kot.html&psig=AOvVaw0q6wmpRe8E3JEZ3SH4pcdE&ust=1639008367976000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiE1JD00vQCFQAAAAAdAAAAABAD" alt='black cat"></p>
+<p>Тут должен был быть Альберт Ярославич, но я пока что хз как залить его в нет на всеобщее осмотрение</p>
+
+<HR>
+<p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crushpixel.com%2Fru%2Fstock-photo%2Fwhite-cat-with-different-eyes-688402.html&psig=AOvVaw17vZiUFoc4ljDOeiSQZGIQ&ust=1639008694511000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCVpa310vQCFQAAAAAdAAAAABAD" alt="white cat"></p>
+<p>А тут Шаболда такая драная, но</p>
+
+<HR>
+
+</body>
+</html>
